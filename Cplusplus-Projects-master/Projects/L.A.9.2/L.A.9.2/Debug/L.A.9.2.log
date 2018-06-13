@@ -1,0 +1,4 @@
+﻿  L.A.9.2.cpp
+c:\users\600218\documents\visual studio 2017\projects\l.a.9.2\l.a.9.2\l.a.9.2.cpp(59): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  L.A.9.2.vcxproj -> C:\Users\600218\documents\visual studio 2017\Projects\L.A.9.2\Debug\L.A.9.2.exe
+  L.A.9.2.vcxproj -> C:\Users\600218\documents\visual studio 2017\Projects\L.A.9.2\Debug\L.A.9.2.pdb (Partial PDB)

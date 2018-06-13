@@ -1,0 +1,6 @@
+﻿  L.A.3.1.cpp
+c:\users\600218\documents\visual studio 2017\projects\l.a.3.1\l.a.3.1\l.a.3.1.cpp(25): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\600218\documents\visual studio 2017\projects\l.a.3.1\l.a.3.1\l.a.3.1.cpp(27): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\600218\documents\visual studio 2017\projects\l.a.3.1\l.a.3.1\l.a.3.1.cpp(29): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  L.A.3.1.vcxproj -> C:\Users\600218\documents\visual studio 2017\Projects\L.A.3.1\Debug\L.A.3.1.exe
+  L.A.3.1.vcxproj -> C:\Users\600218\documents\visual studio 2017\Projects\L.A.3.1\Debug\L.A.3.1.pdb (Partial PDB)

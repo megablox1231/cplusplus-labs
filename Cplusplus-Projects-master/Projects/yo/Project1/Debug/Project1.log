@@ -1,0 +1,13 @@
+﻿  frog.cpp
+c:\users\600218\documents\visual studio 2017\projects\yo\project1\frog.cpp(5): error C2512: 'dice': no appropriate default constructor available
+  c:\users\600218\documents\visual studio 2017\projects\yo\project1\dice.h(29): note: see declaration of 'dice'
+c:\users\600218\documents\visual studio 2017\projects\yo\project1\frog.cpp(5): error C2084: function 'frog::frog(void)' already has a body
+  c:\users\600218\documents\visual studio 2017\projects\yo\project1\frog.cpp(5): note: see previous definition of '{ctor}'
+c:\users\600218\documents\visual studio 2017\projects\yo\project1\frog.cpp(5): error C2512: 'dice': no appropriate default constructor available
+  c:\users\600218\documents\visual studio 2017\projects\yo\project1\dice.h(29): note: see declaration of 'dice'
+c:\users\600218\documents\visual studio 2017\projects\yo\project1\frog.cpp(8): error C2084: function 'int frog::getPos(void) const' already has a body
+  c:\users\600218\documents\visual studio 2017\projects\yo\project1\frog.cpp(8): note: see previous definition of 'getPos'
+c:\users\600218\documents\visual studio 2017\projects\yo\project1\frog.cpp(12): error C2084: function 'void frog::move(void)' already has a body
+  c:\users\600218\documents\visual studio 2017\projects\yo\project1\frog.cpp(12): note: see previous definition of 'move'
+c:\users\600218\documents\visual studio 2017\projects\yo\project1\frog.cpp(16): error C2084: function 'int frog::getSteps(void)' already has a body
+  c:\users\600218\documents\visual studio 2017\projects\yo\project1\frog.cpp(16): note: see previous definition of 'getSteps'

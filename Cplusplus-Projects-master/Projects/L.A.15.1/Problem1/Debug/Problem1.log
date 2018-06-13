@@ -1,0 +1,12 @@
+﻿  stdafx.cpp
+  Problem1.cpp
+  frog.cpp
+c:\users\600218\documents\visual studio 2017\projects\l.a.15.1\problem1\frog.cpp(8): error C2084: function 'frog::frog(void)' already has a body
+  c:\users\600218\documents\visual studio 2017\projects\l.a.15.1\problem1\frog.cpp(7): note: see previous definition of '{ctor}'
+c:\users\600218\documents\visual studio 2017\projects\l.a.15.1\problem1\frog.cpp(12): error C2084: function 'int frog::getPos(void) const' already has a body
+  c:\users\600218\documents\visual studio 2017\projects\l.a.15.1\problem1\frog.cpp(12): note: see previous definition of 'getPos'
+c:\users\600218\documents\visual studio 2017\projects\l.a.15.1\problem1\frog.cpp(16): error C2084: function 'void frog::move(void)' already has a body
+  c:\users\600218\documents\visual studio 2017\projects\l.a.15.1\problem1\frog.cpp(16): note: see previous definition of 'move'
+c:\users\600218\documents\visual studio 2017\projects\l.a.15.1\problem1\frog.cpp(20): error C2084: function 'int frog::getSteps(void)' already has a body
+  c:\users\600218\documents\visual studio 2017\projects\l.a.15.1\problem1\frog.cpp(20): note: see previous definition of 'getSteps'
+  Generating Code...

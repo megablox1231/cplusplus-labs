@@ -1,0 +1,6 @@
+﻿  L.A.6.1.cpp
+c:\users\600218\documents\visual studio 2017\projects\l.a.6.1\l.a.6.1\l.a.6.1.cpp(15): warning C4273: 'hypot': inconsistent dll linkage
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\corecrt_math.h(509): note: see previous definition of 'hypot'
+     Creating library C:\Users\600218\Documents\Visual Studio 2017\Projects\L.A.6.1\Debug\L.A.6.1.lib and object C:\Users\600218\Documents\Visual Studio 2017\Projects\L.A.6.1\Debug\L.A.6.1.exp
+  L.A.6.1.vcxproj -> C:\Users\600218\Documents\Visual Studio 2017\Projects\L.A.6.1\Debug\L.A.6.1.exe
+  L.A.6.1.vcxproj -> C:\Users\600218\Documents\Visual Studio 2017\Projects\L.A.6.1\Debug\L.A.6.1.pdb (Partial PDB)
